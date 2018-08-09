@@ -2,7 +2,10 @@
 
 * [Dartlang](dartlang/dartlang.md)
 
-* [Flutter](flutter/flutter.md)
+* Flutter
+  * [release](flutter/release.md)
+  * [beta](flutter/beta.md)
+  * [dev](flutter/dev.md)
 
 * Android SDK
   * [NDK](android/android-ndk.md)

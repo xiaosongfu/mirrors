@@ -1,3 +1,7 @@
+> Release Notes: [https://golang.google.cn/doc/devel/release.html](https://golang.google.cn/doc/devel/release.html)
+
+---
+
 #### v1.10.3
 
 > Release Date: 2018/06/05
