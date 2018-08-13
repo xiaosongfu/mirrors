@@ -3,9 +3,9 @@
 ```
 npm install docsify-cli -g
 
-docsify init ./docs
+docsify init docs
 
-docsify serve ./docs
+docsify serve docs -o true -p 3000
 ```
 
 ### 同步方法
