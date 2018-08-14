@@ -8,8 +8,9 @@
 
 | File Name |   OS    | Download |
 | :-------- | :------ | :------: |
-| android-ndk-r16b-darwin-x86_64.zip  |  macOS    | [阿里云 OSS](http://dl-mirrors2.xiaosongfu.com/android/ndk/r16b/android-ndk-r16b-darwin-x86_64.zip) |
-| android-ndk-r16b-windows-x86_64.zip |  Windows  | [阿里云 OSS](http://dl-mirrors2.xiaosongfu.com/android/ndk/r16b/android-ndk-r16b-windows-x86_64.zip) |
+| android-ndk-r16b-darwin-x86_64.zip  |  macOS    | [腾讯云 COS](https://dl-mirrors-1253943875.cos.ap-chengdu.myqcloud.com/android/ndk/16b/android-ndk-r16b-darwin-x86_64.zip) |
+| android-ndk-r16b-linux-x86_64.zip   |  Linux    | [腾讯云 COS](https://dl-mirrors-1253943875.cos.ap-chengdu.myqcloud.com/android/ndk/16b/android-ndk-r16b-linux-x86_64.zip)  |
+| android-ndk-r16b-windows-x86_64.zip |  Windows  | [腾讯云 COS](https://dl-mirrors-1253943875.cos.ap-chengdu.myqcloud.com/android/ndk/16b/android-ndk-r16b-windows-x86_64.zip) |
 
 #### 15c
 
