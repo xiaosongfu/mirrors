@@ -1,4 +1,5 @@
-> Release Notes: [https://golang.google.cn/doc/devel/release.html](https://golang.google.cn/doc/devel/release.html)
+> Release Notes:  
+[https://golang.google.cn/doc/devel/release.html](https://golang.google.cn/doc/devel/release.html)
 
 ---
 

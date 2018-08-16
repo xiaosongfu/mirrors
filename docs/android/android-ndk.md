@@ -1,4 +1,5 @@
-> Release Notes: [https://developer.android.google.cn/ndk/downloads/older_releases](https://developer.android.google.cn/ndk/downloads/older_releases)
+> Release Notes:  
+[https://developer.android.google.cn/ndk/downloads/older_releases](https://developer.android.google.cn/ndk/downloads/older_releases)
 
 ---
 

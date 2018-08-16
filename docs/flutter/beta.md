@@ -1,4 +1,5 @@
-> Release Notes: [https://flutter.io/sdk-archive/](https://flutter.io/sdk-archive/#macos)
+> Release Notes:  
+[https://flutter.io/sdk-archive/](https://flutter.io/sdk-archive/#macos)
 
 ---
 
