@@ -10,3 +10,7 @@
 * Android SDK
   * [NDK](android/android-ndk.md)
   * [SDK Tools](android/android-sdk-tools.md)
+
+* Kubernetes
+  * [minikube](kubernetes/minikube.md)
+  * [kubectl](kubernetes/kubectl.md)
