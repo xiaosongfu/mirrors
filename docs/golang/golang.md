@@ -9,9 +9,11 @@
 
 | File Name |   Kind  |    OS   |   Arch  |   Size  | Download |
 | :-------- | :------ | :------ | :------ | :------ | :------: |
-| go1.11.darwin-amd64.tar.gz  | Archive   |  macOS  | x86-64 | 118MB | [七牛云](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.darwin-amd64.tar.gz) |
-| go1.11.linux-amd64.tar.gz   | Archive   |  Linux  | x86-64 | 121MB | [七牛云](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.linux-amd64.tar.gz)) |
+|  go1.11.darwin-amd64.tar.gz   |  Archive   |  macOS  | x86-64 | 118MB | [七牛云](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.darwin-amd64.tar.gz) |
+|  go1.11.linux-amd64.tar.gz    |  Archive   |  Linux  | x86-64 | 121MB | [七牛云](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.linux-amd64.tar.gz) |
+|  go1.11.windows-amd64.zip     |  Archive   | Windows | x86-64 | 129MB | [七牛云](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.windows-amd64.zip) |
 
+---
 
 #### v1.10.4
 
@@ -43,7 +45,7 @@
 
 [未提供 <-> 如果需要请邮件联系]()
 
-#### v1.10.0
+#### v1.10
 
 > Release Date: 2018/02/16
 
@@ -93,7 +95,7 @@
 
 [未提供 <-> 如果需要请邮件联系]()
 
-#### v1.9.0
+#### v1.9
 
 > Release Date: 2017/08/24
 
