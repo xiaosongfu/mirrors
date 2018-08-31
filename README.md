@@ -1,9 +1,3 @@
-### 快速开始
+# Mirrors-镜像站点
 
-```
-npm install docsify-cli -g
-
-docsify init docs
-
-docsify serve docs -o true -p 3000
-```
+> 本站提供部分软件镜像下载，有任何问题欢迎联系 `me@xiaosongfu.com`  ^_^
