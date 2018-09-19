@@ -19,7 +19,13 @@
 
 > Release Date: 2018/08/24
 
-[未提供 <-> 如果需要请邮件联系]()
+| File Name |   Kind  |    OS   |   Arch  |   Size  | Download |
+| :-------- | :------ | :------ | :------ | :------ | :------: |
+| go1.10.4.darwin-amd64.tar.gz	|  Archive    |  macOS    | x86-64 |   86MB | [[官方下载地址]](https://dl.google.com/go/go1.10.4.darwin-amd64.tar.gz) |
+| go1.10.4.darwin-amd64.pkg     |  Installer  |  macOS    | x86-64 |   86MB | [[官方下载地址]](https://dl.google.com/go/go1.10.4.darwin-amd64.pkg)    |
+| go1.10.4.linux-amd64.tar.gz   |  Archive    |  Linux    | x86-64 |   88MB | [[官方下载地址]](https://dl.google.com/go/go1.10.4.linux-amd64.tar.gz)  |
+| go1.10.4.windows-amd64.zip    |  Archive    |  Windows  | x86-64 |   94MB | [[官方下载地址]](https://dl.google.com/go/go1.10.4.windows-amd64.zip)   |
+| go1.10.4.windows-amd64.msi    | Installer   |  Windows  | x86-64 |   78MB | [[官方下载地址]](https://dl.google.com/go/go1.10.4.windows-amd64.msi)   |
 
 #### v1.10.3
 
