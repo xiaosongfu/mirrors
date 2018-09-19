@@ -3,7 +3,7 @@
 ```
 npm install docsify-cli -g
 
-docsify init docs
+docsify init ./
 
-docsify serve docs -o true -p 3000
+docsify serve ./ -o true -p 3000
 ```

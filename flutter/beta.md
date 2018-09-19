@@ -2,6 +2,17 @@
 [https://flutter.io/sdk-archive/](https://flutter.io/sdk-archive/#macos)
 
 ---
+#### v0.7.3-beta
+
+> Release Date: 2018/09/05
+
+[未提供 <-> 如果需要请邮件联系]()
+
+#### v0.6.0-beta
+
+> Release Date: 2018/08/29
+
+[未提供 <-> 如果需要请邮件联系]()
 
 #### v0.5.1-beta
 

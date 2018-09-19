@@ -8,6 +8,7 @@
   * [dev](flutter/dev.md)
 
 * Android SDK
+  * [Android Studio](android/android-androidstudio.md)
   * [NDK](android/android-ndk.md)
   * [SDK Tools](android/android-sdk-tools.md)
 

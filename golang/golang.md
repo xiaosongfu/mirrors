@@ -9,9 +9,9 @@
 
 | File Name |   Kind  |    OS   |   Arch  |   Size  | Download |
 | :-------- | :------ | :------ | :------ | :------ | :------: |
-|  go1.11.darwin-amd64.tar.gz   |  Archive   |  macOS  | x86-64 | 118MB | [七牛云](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.darwin-amd64.tar.gz) |
-|  go1.11.linux-amd64.tar.gz    |  Archive   |  Linux  | x86-64 | 121MB | [七牛云](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.linux-amd64.tar.gz) |
-|  go1.11.windows-amd64.zip     |  Archive   | Windows | x86-64 | 129MB | [七牛云](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.windows-amd64.zip) |
+|  go1.11.darwin-amd64.tar.gz   |  Archive   |  macOS  | x86-64 | 118MB | [[七牛云]](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.darwin-amd64.tar.gz) # [[官方下载地址]](https://dl.google.com/go/go1.11.darwin-amd64.tar.gz) |
+|  go1.11.linux-amd64.tar.gz    |  Archive   |  Linux  | x86-64 | 121MB | [[七牛云]](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.linux-amd64.tar.gz) # [[官方下载地址]](https://dl.google.com/go/go1.11.linux-amd64.tar.gz)  |
+|  go1.11.windows-amd64.zip     |  Archive   | Windows | x86-64 | 129MB | [[七牛云]](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.windows-amd64.zip) # [[官方下载地址]](https://dl.google.com/go/go1.11.windows-amd64.zip)  |
 
 ---
 
@@ -27,11 +27,11 @@
 
 | File Name |   Kind  |    OS   |   Arch  |   Size  | Download |
 | :-------- | :------ | :------ | :------ | :------ | :------: |
-| go1.10.3.darwin-amd64.tar.gz  | Archive   |  macOS  | x86-64 | 124MB | [阿里云 OSS](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.darwin-amd64.tar.gz) |
-| go1.10.3.darwin-amd64.pkg     | Installer |  macOS  | x86-64 | 124MB | [阿里云 OSS](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.darwin-amd64.pkg) |
-| go1.10.3.linux-amd64.tar.gz   | Archive   |  Linux  | x86-64 | 126MB | [阿里云 OSS](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.linux-amd64.tar.gz) |
-| go1.10.3.windows-amd64.zip    | Archive   | Windows | x86-64 | 133MB | [阿里云 OSS](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.windows-amd64.zip) |
-| go1.10.3.windows-amd64.msi    | Installer | Windows | x86-64 | 114MB | [阿里云 OSS](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.windows-amd64.msi) |
+| go1.10.3.darwin-amd64.tar.gz  | Archive   |  macOS  | x86-64 | 124MB | [[阿里云 OSS]](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.darwin-amd64.tar.gz) # [[官方下载地址]](https://dl.google.com/go/go1.10.3.darwin-amd64.tar.gz)  |
+| go1.10.3.darwin-amd64.pkg     | Installer |  macOS  | x86-64 | 124MB | [[阿里云 OSS]](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.darwin-amd64.pkg) # [[官方下载地址]](https://dl.google.com/go/go1.10.3.darwin-amd64.pkg)  |
+| go1.10.3.linux-amd64.tar.gz   | Archive   |  Linux  | x86-64 | 126MB | [[阿里云 OSS]](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.linux-amd64.tar.gz) # [[官方下载地址]](https://dl.google.com/go/go1.10.3.linux-amd64.tar.gz)  |
+| go1.10.3.windows-amd64.zip    | Archive   | Windows | x86-64 | 133MB | [[阿里云 OSS]](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.windows-amd64.zip) # [[官方下载地址]](https://dl.google.com/go/go1.10.3.windows-amd64.zip)  |
+| go1.10.3.windows-amd64.msi    | Installer | Windows | x86-64 | 114MB | [阿里云 OSS]](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/golang/1.10.3/go1.10.3.windows-amd64.msi) # [[官方下载地址]](https://dl.google.com/go/go1.10.3.windows-amd64.msi)  |
 
 #### v1.10.2
 
