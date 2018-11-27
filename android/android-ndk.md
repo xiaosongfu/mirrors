@@ -1,7 +1,17 @@
-> Release Notes:  
+> NDK Revision History:
+[https://developer.android.google.cn/ndk/downloads/revision_history](https://developer.android.google.cn/ndk/downloads/revision_history)
+
+> NDK Archives:  
 [https://developer.android.google.cn/ndk/downloads/older_releases](https://developer.android.google.cn/ndk/downloads/older_releases)
 
 ---
+
+#### 18b
+
+> Release Date: September 2018
+
+| File Name |   OS    | Download |
+| :-------- | :------ | :------: |
 
 #### 17c
 

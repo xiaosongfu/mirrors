@@ -3,6 +3,18 @@
 
 ---
 
+#### v1.11.2
+
+> Release Date: 2018/11/02
+
+[未提供 <-> 如果需要请邮件联系]()
+
+#### v1.11.1
+
+> Release Date: released 2018/10/01
+
+[未提供 <-> 如果需要请邮件联系]()
+
 #### v1.11
 
 > Release Date: 2018/08/24
@@ -14,6 +26,11 @@
 |  go1.11.windows-amd64.zip     |  Archive   | Windows | x86-64 | 129MB | [[七牛云]](http://dl-mirrors-qiniu.xiaosongfu.com/golang/1.11/go1.11.windows-amd64.zip) # [[官方下载地址]](https://dl.google.com/go/go1.11.windows-amd64.zip)  |
 
 ---
+
+#### v1.10.5
+> Release Date: 2018/11/02
+
+[未提供 <-> 如果需要请邮件联系]()
 
 #### v1.10.4
 
