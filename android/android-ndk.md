@@ -1,7 +1,7 @@
 > NDK Revision History:
 [https://developer.android.google.cn/ndk/downloads/revision_history](https://developer.android.google.cn/ndk/downloads/revision_history)
 
-> NDK Archives:  
+> NDK Archives:
 [https://developer.android.google.cn/ndk/downloads/older_releases](https://developer.android.google.cn/ndk/downloads/older_releases)
 
 ---
@@ -12,6 +12,7 @@
 
 | File Name |   OS    | Download |
 | :-------- | :------ | :------: |
+| x | x | x | x |
 
 #### 17c
 

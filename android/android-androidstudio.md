@@ -13,10 +13,10 @@
 | File Name |   Kind  |   OS    | Download |
 | :-------- | :------ | :------ | :------: |
 |  android-studio-ide-173.4907809-mac.dmg   |  Installers |  Mac | [[官方下载地址]](https://dl.google.com/dl/android/studio/install/3.1.4.0/android-studio-ide-173.4907809-mac.dmg) |
-|  android-studio-ide-173.4907809-windows.exe   |  Installers |  Windows IDE only (64-bit)  | [[官方下载地址]](https://dl.google.com/dl/android/studio/install/3.1.4.0/android-studio-ide-173.4907809-windows.exe) |
 |  android-studio-ide-173.4907809-mac.zip | Zip files  | Mac |  [[官方下载地址]](https://dl.google.com/dl/android/studio/ide-zips/3.1.4.0/android-studio-ide-173.4907809-mac.zip)  |
 |  android-studio-ide-173.4907809-linux.zip | Zip files  | Linux |  [[官方下载地址]](https://dl.google.com/dl/android/studio/ide-zips/3.1.4.0/android-studio-ide-173.4907809-linux.zip)  |
 |  android-studio-ide-173.4907809-windows.zip  | Zip files | Windows (64-bit) |  [[官方下载地址]](https://dl.google.com/dl/android/studio/ide-zips/3.1.4.0/android-studio-ide-173.4907809-windows.zip)  |
+|  android-studio-ide-173.4907809-windows.exe   |  Installers |  Windows IDE only (64-bit)  | [[官方下载地址]](https://dl.google.com/dl/android/studio/install/3.1.4.0/android-studio-ide-173.4907809-windows.exe) |
 
 #### Android Studio 3.1.3
 
