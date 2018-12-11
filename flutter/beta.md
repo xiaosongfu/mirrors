@@ -1,7 +1,7 @@
-> Release Notes:  
-[https://flutter.io/sdk-archive/](https://flutter.io/sdk-archive/#macos)
+> Release Notes: [https://flutter.io/docs/development/tools/sdk/archive](https://flutter.io/docs/development/tools/sdk/archive)
 
 ---
+
 #### v0.7.3-beta
 
 > Release Date: 2018/09/05

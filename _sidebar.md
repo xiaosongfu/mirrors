@@ -3,7 +3,8 @@
 * [Dartlang](dartlang/dartlang.md)
 
 * Flutter
-  * [release](flutter/release.md)
+  * [master](flutter/master.md)
+  * [stable](flutter/stable.md)
   * [beta](flutter/beta.md)
   * [dev](flutter/dev.md)
 
