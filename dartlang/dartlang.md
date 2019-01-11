@@ -10,7 +10,7 @@
 
 | File Name |   OS    |   Bits     | Download |
 | :-------- | :------ | :------: | :------: |
-| dartsdk-macos-x64-release.zip   |  macOS    |  64-bit   | [官网下载地址](https://storage.googleapis.com/dart-archive/channels/stable/release/2.1.0/sdk/dartsdk-macos-x64-release.zip) |
+| dartsdk-macos-x64-release.zip   |  macOS    |  64-bit   | [官网下载地址](https://storage.googleapis.com/dart-archive/channels/stable/release/2.1.0/sdk/dartsdk-macos-x64-release.zip) # [阿里云 OSS](https://dl-mirrors.oss-cn-shenzhen.aliyuncs.com/dartlang/2.1.0/dartsdk-macos-x64-release.zip) |
 |  dartsdk-linux-x64-release  |  Linux    |  64-bit   | [官网下载地址](https://storage.googleapis.com/dart-archive/channels/stable/release/2.1.0/sdk/dartsdk-linux-x64-release.zip) |
 |  dartsdk-windows-x64-release|  Windows    |  64-bit   | [官网下载地址](https://storage.googleapis.com/dart-archive/channels/stable/release/2.1.0/sdk/dartsdk-windows-x64-release.zip) |
 
