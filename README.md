@@ -10,6 +10,8 @@
 
 * 网易开源镜像站 - [mirrors.163.com](http://mirrors.163.com/)
 
+* 华为开源镜像站 - [mirrors.huaweicloud.com](https://mirrors.huaweicloud.com/)
+
 ---
 
 * 清华大学开源软件镜像站 - [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn/)  
