@@ -12,6 +12,8 @@
 
 * 华为开源镜像站 - [mirrors.huaweicloud.com](https://mirrors.huaweicloud.com/)
 
+* Azure 中国镜像源 - [mirror.azure.cn](http://mirror.azure.cn/)
+
 ---
 
 * 清华大学开源软件镜像站 - [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn/)  
